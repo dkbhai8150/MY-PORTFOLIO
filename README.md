@@ -158,7 +158,7 @@
                         <p>I created Tic tac toe game using HTML, CSS, JavaScript and You can try it with your friends</p>
                         <div class="view">
                             <a href="https://tictac0.vercel.app/" target="_blank" class="btn"><i class="ri-eye-line"></i>View</a>
-                            <a href="https://github.com/Anurag-Singh-0/Tic-Tac-Toe-Game"  class="btn"><i class="ri-codepen-line"></i>Code</a>
+                            <a href="https://github.com/Anubhav kumar yaduvanshi-0/Tic-Tac-Toe-Game"  class="btn"><i class="ri-codepen-line"></i>Code</a>
                         </div>
                     </div>
                 </div>
